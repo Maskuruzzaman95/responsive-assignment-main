@@ -1,0 +1,25 @@
+#INFINITY{
+    color: rgb(0, 26, 255)
+ 
+}
+.NIKE{
+    color:rgb(255, 136, 0);
+}
+.shoes-edited{
+    color: rgb(15, 3, 83);
+}
+.Lets-stay{
+    color: white;
+}  
+.bag-card {
+    border: none;
+}
+.bag-card-footer{
+    border: none;
+    background-color: white;
+
+}
+.image-size{
+    width:80px;
+    height:80px;
+}
